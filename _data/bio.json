@@ -5,14 +5,14 @@
     "picture": "https://github.com/Enjoyboi.png",
     "email": "ksoares2@hawaii.edu",
     "phone": "808-216-7067",
-    "website": "https://KristianSoares.github.io/",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "website": "https://Enjoyboi.github.io/",
+    "summary": "I am studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Fall, 2025.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
+      { "network": "github", "username": "Enjoyboi", "url": "http://github.com/Enjoyboi" },
       { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "twitter", "username": "", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "krismecrazy", "url": "http://instagram.com/krismecrazy" }
     ]
   },
   "interests": [
@@ -45,29 +45,16 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "AECOM",
+      "position": "SACS",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2016-02-08",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Specialized Access Control specialist",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and update systems to customers demand",
       ]
     },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
   ],
   "volunteer": [
     {
