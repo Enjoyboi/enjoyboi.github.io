@@ -16,28 +16,28 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
+    { "name": "Computer Science" },
+    { "name": "Automotive Tech" },
+    { "name": "Software Developement" },
     { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Web Design" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Python" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "VSCODE", "Clion" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Fall, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2012-01-12",
       "endDate": "Present",
       "courses": [
       ]
@@ -50,9 +50,9 @@
       "website": "",
       "startDate": "2016-02-08",
       "endDate": "Present",
-      "summary": "Specialized Access Control specialist",
+      "summary": "Specialized Access Control Specialist",
       "highlights": [
-        "Maintain, update, and update systems to customers demand",
+        "Maintain, and update systems to customers demands",
       ]
     },
   ],
