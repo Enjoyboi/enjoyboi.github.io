@@ -11,7 +11,8 @@ labels:
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/typescripting-my-life/what-is-typescript.jpeg">
-# Typscripting My Life
+
+# Typsescripting My Life
 
 *TypeScript: a tool that adds rules and structure to JavaScript so it's easier to manage.*
 
