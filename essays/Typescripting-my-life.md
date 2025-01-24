@@ -1,4 +1,4 @@
-
+---
 layout: essay  
 type: essay  
 title: "TypeScripting my life"  
@@ -39,3 +39,4 @@ Learning TypeScript and doing WODs taught me a lot about stepping out of my comf
 At the end of the day, I think challenges like these are worth it. They might seem tough at first, but the skills and lessons you take away make them totally worth it.
 
 I used ChatGPT to help me organize my essay better and give me a basic layout.
+---
