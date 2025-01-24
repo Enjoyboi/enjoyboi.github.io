@@ -34,7 +34,7 @@ After a few practice WODs, though, I started to see how helpful they are. It’s
 
 It reminded me of that classic line from Wayne’s World: "You miss 100% of the shots you don't take." At first, I hesitated to dive into the WODs because I was so nervous about messing up. But once I realized it was okay to make mistakes, I just focused on trying my best and learning from the process. The only way to get better was to take those “shots” and practice, even if I didn’t succeed every time.
 
-I’d say this way of learning is pretty fun overall. It’s definitely stressful, but it’s also rewarding. I think it works for me because it pushes me to improve quickly, and it’s not just about reading or watching tutorials—it’s about doing. That said, I can see how it might not work for everyone. If you get really nervous under pressure, it could feel more frustrating than helpful.
+I’d say this way of learning is pretty fun overall. It’s definitely stressful, but it’s also rewarding. I think it works for me because it pushes me to improve quickly, and it’s not just about reading or watching tutorials, it’s about doing. That said, I can see how it might not work for everyone. If you get really nervous under pressure, it could feel more frustrating than helpful.
 
 ## Final Thoughts
 
