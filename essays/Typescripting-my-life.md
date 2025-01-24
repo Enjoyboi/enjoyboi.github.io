@@ -1,7 +1,7 @@
 
 layout: essay  
 type: essay  
-title: "TypeScript and Athletic Software Engineering"  
+title: "TypeScripting my life"  
 date: 2025-01-23  
 published: true  
 labels:  
