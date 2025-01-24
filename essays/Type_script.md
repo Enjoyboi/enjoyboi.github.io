@@ -1,11 +1,7 @@
-Here’s a revised version written in a more high school-like voice:
-
----
 
 layout: essay  
 type: essay  
-title: "Trying Out TypeScript and Athletic Software Engineering"  
-# All dates must be YYYY-MM-DD format!  
+title: "TypeScript and Athletic Software Engineering"  
 date: 2025-01-23  
 published: true  
 labels:  
