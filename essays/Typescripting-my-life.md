@@ -10,7 +10,7 @@ labels:
 
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/typescripting-my-life/what-is-typescript.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/Typescripting-my-life/what-is-typescript.jpeg">
 
 # TypeScripting My Life
 
