@@ -32,6 +32,8 @@ Okay, so athletic software engineering was definitely something different. The w
 
 After a few practice WODs, though, I started to see how helpful they are. It’s like working out, at first, it feels terrible, but as you keep going, you get stronger. The timed aspect made me focus more and think about how to solve problems faster. It was super satisfying when I actually finished a practice WOD on time. Even when I didn’t, I still learned a lot by reviewing what I could’ve done better.
 
+It reminded me of that classic line from Wayne’s World: "You miss 100% of the shots you don't take." At first, I hesitated to dive into the WODs because I was so nervous about messing up. But once I realized it was okay to make mistakes, I just focused on trying my best and learning from the process. The only way to get better was to take those “shots” and practice, even if I didn’t succeed every time.
+
 I’d say this way of learning is pretty fun overall. It’s definitely stressful, but it’s also rewarding. I think it works for me because it pushes me to improve quickly, and it’s not just about reading or watching tutorials—it’s about doing. That said, I can see how it might not work for everyone. If you get really nervous under pressure, it could feel more frustrating than helpful.
 
 ## Final Thoughts
