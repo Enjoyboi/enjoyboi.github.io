@@ -1,7 +1,3 @@
-
----
-
-```yaml
 ---
 layout: essay  
 type: essay  
@@ -13,9 +9,8 @@ labels:
   - Communication  
   - StackOverflow  
 ---
-```
 
-<img width="200px" class="rounded float-start pe-4" src="../img/asking-smart-questions/smart-vs-dumb-questions.jpeg">
+<img width="200px" class="rounded float-start pe-4" src="../img/Questions-Closed/Dr.evilQuestions.jpg">
 
 # Asking Smart Questions: Why It Matters  
 
