@@ -1,70 +1,111 @@
 {
   "basics": {
     "name": "Kristian Soares",
-    "label": "Student",
+    "label": "Computer Engineering Student",
     "picture": "https://github.com/Enjoyboi.png",
     "email": "ksoares2@hawaii.edu",
     "phone": "808-216-7067",
     "website": "https://enjoyboi.github.io",
-    "summary": "Hi my Cutie Ross Welcome to my website, please take care today. Your health and happiness means the world to me. I'm always here for you <3. Hello, my name is Kristian. I am currently studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Fall, 2025.",
+    "summary": "Aspiring Computer Engineer with experience in software development, embedded systems, and data structures. Passionate about problem-solving, low-level programming, and optimizing system performance. Currently pursuing a B.S. in Computer Engineering at the University of Hawaii, expected to graduate in Fall 2025.",
     "location": {
       "address": "",
-      "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
-        "network": "github",
+        "network": "GitHub",
         "username": "Enjoyboi",
-        "url": "http://github.com/Enjoyboi"
+        "url": "https://github.com/Enjoyboi"
       },
       {
-        "network": "instagram",
-        "username": "krismecrazy",
-        "url": "http://instagram.com/krismecrazy"
+        "network": "LinkedIn",
+        "username": "KristianSoares",
+        "url": "https://linkedin.com/in/kristiansoares"
       }
     ]
   },
   "interests": [
-    { "name": "Computer Science" },
-    { "name": "Automotive Tech" },
+    { "name": "Embedded Systems" },
     { "name": "Software Development" },
-    { "name": "Robotics" },
-    { "name": "Web Design" }
+    { "name": "Robotics & Automation" },
+    { "name": "Computer Vision" },
+    { "name": "Cybersecurity" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": ["C", "C++", "Java", "Javascript", "Assembly", "Python"]
+      "name": "Programming Languages",
+      "keywords": ["C", "C++", "Python", "Java", "JavaScript", "Assembly"]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": ["MacOS", "Ubuntu", "Git/GitHub", "VSCODE", "Clion"]
+      "name": "Software & Development Tools",
+      "keywords": ["Git", "GitHub", "VS Code", "CLion", "CMake", "Doxygen"]
+    },
+    {
+      "name": "Operating Systems",
+      "keywords": ["Linux (Ubuntu, Arch)", "Windows", "MacOS"]
+    },
+    {
+      "name": "Embedded Systems & Hardware",
+      "keywords": ["ARM Architecture", "Microcontrollers", "FPGA", "Raspberry Pi", "Arduino"]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Fall, 2025)",
+      "area": "Computer Engineering",
       "studyType": "B.S.",
-      "startDate": "2012-01-12",
-      "endDate": "Present",
-      "courses": []
+      "startDate": "2021-08-01",
+      "endDate": "2025-12-01",
+      "courses": [
+        "Data Structures & Algorithms",
+        "Computer Architecture",
+        "Embedded Systems",
+        "Software Engineering",
+        "Digital Signal Processing"
+      ]
     }
   ],
   "work": [
     {
       "company": "AECOM",
-      "position": "SACS",
+      "position": "Specialized Access Control Specialist",
       "website": "",
       "startDate": "2016-02-08",
       "endDate": "Present",
-      "summary": "Specialized Access Control Specialist",
+      "summary": "Manage and maintain security access systems, integrating software and hardware solutions to enhance security infrastructure.",
       "highlights": [
-        "Maintain and update systems to customers' demands"
+        "Developed automation scripts to streamline system maintenance and monitoring.",
+        "Collaborated with IT teams to ensure seamless integration of access control solutions.",
+        "Conducted troubleshooting and system upgrades to improve reliability and security."
       ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "VIP Aerospace Technologies: Ke Ao CubeSat",
+      "description": "Developed flight software for a 1U CubeSat, implementing embedded systems programming and RF communication protocols.",
+      "keywords": ["Embedded Systems", "C", "GNU Radio", "Satellite Communication"],
+      "url": "https://github.com/myusername/ke-ao"
+    },
+    {
+      "name": "Animal Farm (EE205)",
+      "description": "Implemented data structures such as linked lists and binary search trees in C++. Developed sorting algorithms and container classes.",
+      "keywords": ["C++", "Data Structures", "Software Engineering"],
+      "url": "https://github.com/myusername/ee205-animalfarm"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Linux Essentials Certification",
+      "issuer": "Linux Professional Institute",
+      "date": "2023-06-15"
+    },
+    {
+      "name": "Cisco CCNA (Networking Basics)",
+      "issuer": "Cisco",
+      "date": "2024-02-10"
     }
   ],
   "references": [
