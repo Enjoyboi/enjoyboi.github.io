@@ -124,6 +124,7 @@ This assignment made me realize that **asking smart questions isn’t just about
 
 From now on, whenever I need help with my code, I’ll **follow Raymond’s advice** and make sure my question is **clear, detailed, and structured properly**. That way, I’ll get **useful answers instead of frustration and downvotes**.  
 
+I used ChatGPT to help me organize my essay better and give me a basic layout.
 ---
 
 ### **References & Links**  
