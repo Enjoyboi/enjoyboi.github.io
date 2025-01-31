@@ -55,5 +55,4 @@ While solar energy is a sustainable solution, panel manufacturing has environmen
 - [Environmental Impact of Solar Panels](https://honuaolabioenergy.com/environmental-impact-of-solar-panel-manufacturing/)  
 - [How Solar Power Affects Hawaii’s Wildlife](https://spectrumlocalnews.com/hi/hawaii/environment/2022/01/07/how-solar-facilities-might-harm-hawaii-s-endangered-birds-is-outlined-in-a-new-report)  
 
-### Repository  
-Source: <a href="https://github.com/myusername/pvsolar"><i class="large github icon "></i>myusername/pvsolar</a>  
+
