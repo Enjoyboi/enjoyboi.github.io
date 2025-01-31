@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pvsolar/pvsolar-square.png
+image: img/PVsolar/OIP.jpeg
 title: "PV Solar Power for Residential Homes"
 date: 2025
 published: true
@@ -15,7 +15,13 @@ summary: "A study on the feasibility of powering a 5,000 square-foot home in Wai
 <img class="img-fluid" src="../img/PVsolar/OIP.jpeg">
 
 ### Overview  
-This project explores the feasibility of using Tesla's photovoltaic (PV) solar panels and Powerwall battery storage to fully power a 5,000-square-foot house in Waialae-Iki, Oahu. The study aims to determine the power requirements, design specifications, and cost considerations necessary for a home to rely solely on solar energy.
+This project explores the feasibility of using Tesla's photovoltaic (PV) solar panels and Powerwall battery storage to fully power a 5,000-square-foot house in Waialae-Iki, Oahu. The study aims to determine the power requirements, design specifications, and cost considerations necessary for a home to rely solely on solar energy. Using Tesla’s solar estimator and research on renewable energy solutions, we calculated the estimated annual load, optimal panel configuration, and the role of battery storage in ensuring continuous energy availability. The study also examined the potential environmental impact of solar panel installation and Hawaii's tax incentives for solar energy adoption.
+
+### My Role in the Project  
+My role in this project focused on evaluating **the environmental impact, global sustainability considerations, and efficiency of the proposed system**. I researched how solar panel production and disposal affect the environment, as well as how widespread adoption of solar energy could contribute to global sustainability efforts. Additionally, I analyzed the expected efficiency of the system by considering factors like panel degradation, Hawaii’s sunlight exposure, and energy losses during conversion. I was responsible for approximately **one-third of the research and analysis**, ensuring that our study provided a well-rounded understanding of both the benefits and challenges of solar energy implementation.
+
+### Lessons Learned  
+Through this project, I gained valuable insights into **the complexities of solar energy systems and the trade-offs associated with renewable energy adoption**. I learned how to **calculate energy requirements based on real-world data** and how factors such as shading, temperature, and efficiency losses affect solar panel performance. Additionally, I developed a deeper understanding of how **energy storage solutions, like Tesla Powerwall, play a crucial role in stabilizing power supply** for residential solar systems. This experience also reinforced the importance of teamwork, as we had to **divide research responsibilities, analyze data collectively, and integrate our findings into a cohesive report**.
 
 ### Design Specifications  
 The house is located in a residential area of Oahu, receiving ample sunlight with minor obstructions from nearby buildings and trees. Using Tesla’s solar calculator, the estimated annual energy consumption is **16,927 kWh**, requiring a **14.58 kW PV system** with solar panels, an inverter, and an energy gateway. Excess energy can be stored in Tesla Powerwall batteries to ensure continuous supply and reduce reliance on the grid.
@@ -54,5 +60,3 @@ While solar energy is a sustainable solution, panel manufacturing has environmen
 - [Solar Technology Basics](https://www.energy.gov/eere/solar/solar-photovoltaic-technology-basics)  
 - [Environmental Impact of Solar Panels](https://honuaolabioenergy.com/environmental-impact-of-solar-panel-manufacturing/)  
 - [How Solar Power Affects Hawaii’s Wildlife](https://spectrumlocalnews.com/hi/hawaii/environment/2022/01/07/how-solar-facilities-might-harm-hawaii-s-endangered-birds-is-outlined-in-a-new-report)  
-
-
