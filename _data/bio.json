@@ -6,28 +6,42 @@
     "email": "ksoares2@hawaii.edu",
     "phone": "808-216-7067",
     "website": "https://enjoyboi.github.io",
-    "summary": "Hi my Cutie Ross Welcome to my website, please take care today. You're health and happiness  means the world to me. Im always here for you <3. Hello my name is Kristian I am currently studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Fall, 2025.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "Hi my Cutie Ross Welcome to my website, please take care today. Your health and happiness means the world to me. I'm always here for you <3. Hello, my name is Kristian. I am currently studying for a B.S. in Computer Engineering in the Department of Engineering at the University of Hawaii. I expect to graduate in Fall, 2025.",
+    "location": {
+      "address": "",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "Enjoyboi", "url": "http://github.com/Enjoyboi" },
-      { "network": "instagram", "username": "krismecrazy", "url": "http://instagram.com/krismecrazy" }
+      {
+        "network": "github",
+        "username": "Enjoyboi",
+        "url": "http://github.com/Enjoyboi"
+      },
+      {
+        "network": "instagram",
+        "username": "krismecrazy",
+        "url": "http://instagram.com/krismecrazy"
+      }
     ]
   },
   "interests": [
     { "name": "Computer Science" },
     { "name": "Automotive Tech" },
-    { "name": "Software Developement" },
+    { "name": "Software Development" },
     { "name": "Robotics" },
     { "name": "Web Design" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Python" ]
+      "keywords": ["C", "C++", "Java", "Javascript", "Assembly", "Python"]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "VSCODE", "Clion" ]
+      "keywords": ["MacOS", "Ubuntu", "Git/GitHub", "VSCODE", "Clion"]
     }
   ],
   "education": [
@@ -37,8 +51,7 @@
       "studyType": "B.S.",
       "startDate": "2012-01-12",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
@@ -50,10 +63,8 @@
       "endDate": "Present",
       "summary": "Specialized Access Control Specialist",
       "highlights": [
-        "Maintain, and update systems to customers demands",
+        "Maintain and update systems to customers' demands"
       ]
-    },
-  ],
     }
   ],
   "references": [
