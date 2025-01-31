@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/AnimalFarm/animal_farm_full.jpg # Ensures a square crop for home screen
+image: img/AnimalFarm/animal_farm_square.jpg # Ensures a square crop for home screen
 title: "EE205: Animal Farm"
 date: 2025
 published: true
