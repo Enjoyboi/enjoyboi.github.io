@@ -1,59 +1,59 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+image: img/pvsolar/pvsolar-square.png
+title: "PV Solar Power for Residential Homes"
+date: 2025
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Renewable Energy
+  - Solar Power
+  - Sustainability
+summary: "A study on the feasibility of powering a 5,000 square-foot home in Waialae-Iki, Oahu, using Tesla photovoltaic (PV) solar panels and batteries."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/pvsolar/pvsolar-header.png">
 
-Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+### Overview  
+This project explores the feasibility of using Tesla's photovoltaic (PV) solar panels and Powerwall battery storage to fully power a 5,000-square-foot house in Waialae-Iki, Oahu. The study aims to determine the power requirements, design specifications, and cost considerations necessary for a home to rely solely on solar energy.
 
-To give you a flavor of the game, here is an excerpt from one run:
+### Design Specifications  
+The house is located in a residential area of Oahu, receiving ample sunlight with minor obstructions from nearby buildings and trees. Using Tesla’s solar calculator, the estimated annual energy consumption is **16,927 kWh**, requiring a **14.58 kW PV system** with solar panels, an inverter, and an energy gateway. Excess energy can be stored in Tesla Powerwall batteries to ensure continuous supply and reduce reliance on the grid.
+
+### System Components  
+The proposed system includes:  
+- **Solar Panels**: Tesla panels, rated for temperatures between -40°F to 185°F, with dimensions of **74.4" × 41.2" × 1.57"**. These panels come with a **25-year warranty**.  
+- **Inverter & Gateway**: The Tesla inverter (dimensions **26" × 16" × 6"**) converts DC from the panels into usable AC power, while the gateway monitors energy production and usage.  
+- **Powerwall Battery Storage**: Each Tesla Powerwall has a **13.5 kWh capacity**, dimensions of **43.25" × 25" × 7.6"**, and a **10-year warranty**. This allows energy storage for nighttime use or backup during power outages.  
+
+### Project Distribution  
+Each team member was responsible for specific aspects of the project:  
+- **Kristian**: Capacity factor, project duration, and system design.  
+- **Jamie**: Permits, tax credits, project costs, and cost per kWh.  
+- **Alex**: Environmental impacts, global issues, and system efficiency.  
+
+### Example Calculation  
+Using Tesla’s solar estimator, we projected:  
 
 <hr>
 
 <pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
-
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
+Estimated Annual Load: 16,927 kWh  
+Required Solar Capacity: 14.58 kW  
+Powerwall Storage: ~13.5 kWh per unit  
 </pre>
 
 <hr>
 
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+### Environmental Impact  
+While solar energy is a sustainable solution, panel manufacturing has environmental effects, including energy-intensive production and waste disposal concerns. Additionally, large-scale solar farms may impact wildlife, such as Hawaii’s endangered bird species.
+
+### References  
+- [Tesla Solar Panels](https://www.tesla.com/solarpanels)  
+- [Tesla Powerwall](https://www.tesla.com/powerwall)  
+- [Solar Technology Basics](https://www.energy.gov/eere/solar/solar-photovoltaic-technology-basics)  
+- [Environmental Impact of Solar Panels](https://honuaolabioenergy.com/environmental-impact-of-solar-panel-manufacturing/)  
+- [How Solar Power Affects Hawaii’s Wildlife](https://spectrumlocalnews.com/hi/hawaii/environment/2022/01/07/how-solar-facilities-might-harm-hawaii-s-endangered-birds-is-outlined-in-a-new-report)  
+
+### Repository  
+Source: <a href="https://github.com/myusername/pvsolar"><i class="large github icon "></i>myusername/pvsolar</a>  
