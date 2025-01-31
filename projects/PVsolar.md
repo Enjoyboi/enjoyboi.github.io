@@ -12,7 +12,7 @@ labels:
 summary: "A study on the feasibility of powering a 5,000 square-foot home in Waialae-Iki, Oahu, using Tesla photovoltaic (PV) solar panels and batteries."
 ---
 
-<img class="img-fluid" src="../img/pvsolar/pvsolar-header.png">
+<img class="img-fluid" src="../img/PVsolar/OIP.jpeg">
 
 ### Overview  
 This project explores the feasibility of using Tesla's photovoltaic (PV) solar panels and Powerwall battery storage to fully power a 5,000-square-foot house in Waialae-Iki, Oahu. The study aims to determine the power requirements, design specifications, and cost considerations necessary for a home to rely solely on solar energy.
