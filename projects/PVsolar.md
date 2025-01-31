@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/PVsolar/OIP.jpeg
+image: img/PVsolar/OIPsquare.jpeg
 title: "PV Solar Power for Residential Homes"
 date: 2025
 published: true
