@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Cubesat/HSFL.jpeg  # Ensures a square crop for the home screen
+image: img/Cubesat/HSFL.png  # Ensures a square crop for the home screen
 title: "Ke Ao: A Low-Cost 1U CubeSat for Aerospace Education and Research"
 date: 2025
 published: true
@@ -13,7 +13,7 @@ summary: "Ke Ao is a 1U CubeSat developed by the VIP Aerospace Technologies clas
 ---
 
 
-<img class="img-full" src="../img/Cubesat/HSFL.jpeg">
+<img class="img-full" src="../img/Cubesat/HSFL.png">
 
 ### Overview  
 The **Ke Ao CubeSat** is a **1U satellite** developed by **Team Laniākea** as part of the **VIP Aerospace Technologies program** at the **University of Hawaiʻi at Mānoa**. The project aims to demonstrate **low-cost, student-led satellite design and AI-powered image recognition** in space. Ke Ao's primary mission is to **capture images of the Hawaiian Islands from orbit** and use **machine learning algorithms** to autonomously identify them. This aligns with the growing trend of **onboard AI processing** in small satellites, reducing the need for bandwidth-heavy data transmissions.
