@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/EE205/animalfarm-square.png  # Ensures a square crop for home screen
+image: img/AnimalFarm/animal_farm_full.jpg # Ensures a square crop for home screen
 title: "EE205: Animal Farm"
 date: 2025
 published: true
@@ -13,7 +13,7 @@ labels:
 summary: "Animal Farm is a series of labs designed to teach fundamental C and C++ programming, emphasizing data structures, sorting algorithms, and software engineering practices."
 ---
 
-<img class="img-full" src="../img/EE205/animalfarm-square.png">
+<img class="img-full" src="../img/AnimalFarm/animal_farm_full.jpg">
 
 ### Overview  
 **Animal Farm** is a hands-on programming project for **EE205** that introduces students to **C and C++ programming**, with a strong emphasis on **data structures, sorting algorithms, and object-oriented design**. The project consists of multiple **labs**, each building on the previous one, helping students develop strong **software engineering** skills while working in a **real-world development environment**.
