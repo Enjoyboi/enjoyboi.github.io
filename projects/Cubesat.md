@@ -54,5 +54,4 @@ Challenges this semester included **hardware delivery delays**, which impacted t
 - [NASA F Prime (F') Framework](https://nasa.github.io/fprime/)  
 - [GNU Radio for Space Communications](https://www.gnuradio.org/)  
 
-### Repository  
-Source: <a href="https://github.com/myusername/ke-ao"><i class="large github icon "></i>myusername/ke-ao</a>  
+
