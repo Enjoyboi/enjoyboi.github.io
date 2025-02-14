@@ -60,6 +60,8 @@ At first, I didn’t think much about coding standards. They just seemed like a 
 
 Good coding standards are like good habits—they might seem annoying at first, but once you get used to them, they make everything easier. Whether it’s following indentation rules, writing clear function names, or using consistent error handling, these small things add up to create better, more maintainable code. So the next time you see an ESLint warning, instead of ignoring it, think of it as a free coding lesson!
 
+I used ChatGPT to help me organize my essay better and give me a basic layout.
+
 ### References
 
 - Fowler, Martin. *Refactoring: Improving the Design of Existing Code.* Addison-Wesley, 1999.
