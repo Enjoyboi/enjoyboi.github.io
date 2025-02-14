@@ -10,7 +10,7 @@ labels:
   - StackOverflow  
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/">
+<img width="200px" class="rounded float-start pe-4" src="../img/More-Than-Just-Style/Art-Of-Writitng.png">
 
 **The Importance of Coding Standards: More Than Just Style**
 
