@@ -1,3 +1,17 @@
+---
+layout: essay  
+type: essay  
+title: "Asking Smart Questions: Why It Matters"  
+date: 2025-02-01  
+published: true  
+labels:  
+  - Software Engineering  
+  - Communication  
+  - StackOverflow  
+---
+
+<img width="200px" class="rounded float-start pe-4" src="../img/">
+
 **The Importance of Coding Standards: More Than Just Style**
 
 When people hear the term "coding standards," they often think about little things like whether to use spaces or tabs, or if curly braces should be on a new line. While these details do matter, coding standards are way more than just style choices. They help make code more readable, maintainable, and even teach new programmers how to write better code. If I had to choose just one software engineering practice to improve code quality, it would be following good coding standards.
