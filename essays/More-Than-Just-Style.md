@@ -4,7 +4,7 @@ When people hear the term "coding standards," they often think about little thin
 
 ### Coding Standards as a Learning Tool
 
-One thing that surprised me is how much coding standards actually help in learning a programming language. At first, I thought they were just a set of annoying rules, but after using ESLint in VSCode for a while, I started to see the benefits. ESLint doesn't just point out mistakes—it helps enforce best practices. For example, it catches unused variables, suggests better ways to write functions, and even prevents potential bugs. When I first started using it, fixing all the errors felt tedious, but over time, I realized that it was actually teaching me better coding habits. 
+One thing that surprised me is how much coding standards actually help in learning a programming language. At first, I thought they were just a set of annoying rules, but after using ESLint in VSCode for a while, I started to see the benefits. ESLint doesn't just point out mistakes—it helps enforce best practices. According to Martin Fowler, "Any fool can write code that a computer can understand. Good programmers write code that humans can understand" (Fowler, 1999). 
 
 For example, consider this JavaScript function:
 ```javascript
@@ -18,7 +18,7 @@ This looks fine, but what if someone calls `addNumbers('3', 5)`? Instead of thro
 
 Getting rid of all the ESLint errors can be frustrating at first. It’s like having a super strict teacher constantly correcting your work. But after a while, I noticed that I was making fewer mistakes and writing cleaner code from the start. Instead of seeing the warnings as annoying, I started seeing them as helpful. It’s kind of like learning grammar rules in English class—at first, it feels pointless, but later you realize how much it improves your writing. 
 
-For instance, ESLint often warns about inconsistent spacing, like this:
+Robert C. Martin, in his book *Clean Code*, emphasizes that "clean code is simple and direct. Clean code reads like well-written prose" (Martin, 2008). When ESLint warns about inconsistent spacing, like this:
 ```javascript
 if(foo === bar){
   console.log("Hello world");
@@ -45,4 +45,9 @@ Another example is error handling. Without a standard way of handling errors, on
 At first, I didn’t think much about coding standards. They just seemed like a set of rules that made things harder for no reason. But after using ESLint and seeing how it improved my coding skills, I’ve changed my mind. Coding standards aren’t just about making code look nice—they help prevent mistakes, make collaboration easier, and even teach you better programming practices. So, while fixing ESLint errors might be frustrating, it’s worth it in the long run. 
 
 Good coding standards are like good habits—they might seem annoying at first, but once you get used to them, they make everything easier. Whether it’s following indentation rules, writing clear function names, or using consistent error handling, these small things add up to create better, more maintainable code. So the next time you see an ESLint warning, instead of ignoring it, think of it as a free coding lesson!
+
+### References
+
+- Fowler, Martin. *Refactoring: Improving the Design of Existing Code.* Addison-Wesley, 1999.
+- Martin, Robert C. *Clean Code: A Handbook of Agile Software Craftsmanship.* Prentice Hall, 2008.
 
