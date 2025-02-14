@@ -1,7 +1,7 @@
 ---
 layout: essay  
 type: essay  
-title: "Asking Smart Questions: Why It Matters"  
+title: "Questions Closed"  
 date: 2025-02-01  
 published: true  
 labels:  
