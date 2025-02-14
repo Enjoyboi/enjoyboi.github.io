@@ -2,7 +2,7 @@
 layout: essay  
 type: essay  
 title: "More Than Just Style"  
-date: 2025-02-01  
+date: 2025-02-13  
 published: true  
 labels:  
   - Software Engineering  
