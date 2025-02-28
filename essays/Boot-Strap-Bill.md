@@ -82,7 +82,7 @@ Copy
 Edit
 <footer class="bg-black text-white py-4">
     <div class="container d-flex justify-content-between align-items-center">
-        <img src="logo.png" alt="Kō Hana Rum Logo">
+        < <img src="https://courses.ics.hawaii.edu/ics314s25/morea/ui-frameworks/wod-ko-hana-logo.png" alt="Kō Hana Logo" width="150" class="mb-2">
         <p class="text-gold">ALOHA@KOHANARUM.COM | (808) 649-0830</p>
         <p class="text-gold">92-1770 Kunia Rd, Kunia, HI 96759, USA</p>
         <div>
