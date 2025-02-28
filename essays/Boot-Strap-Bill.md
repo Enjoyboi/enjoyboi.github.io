@@ -9,7 +9,7 @@ labels:
   - Bootstrap 5  
   - Web Development  
 ---
-<img width="200px" class="rounded float-start pe-4" src="../img/UI-Frameworks/Bootstrap5.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/Boot-Strap-Bill/Similarities-700x486.png">
 Why UI Frameworks Make Web Design So Much Easier
 If you've ever tried to build a website from scratch with just HTML and CSS, you know how frustrating it can be. Everything looks different on different screen sizes, and getting things to align properly takes forever. This is where UI frameworks like Bootstrap 5 come in. Instead of writing tons of custom CSS, you can use pre-made styles and layouts to make websites look good with way less effort.
 
