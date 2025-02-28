@@ -119,14 +119,12 @@ As Jeffrey Zeldman, web standards pioneer, puts it:
 
 "Good design is about making other designers jealous. UI frameworks like Bootstrap help you get there faster."
 
-Final Steps
-✔ Upload this essay to my portfolio website
-✔ Add screenshots of my Bootstrap projects
-✔ Make sure the essay appears in the "Essays" section
+I used ChatGPT to help me organize my essay better and give me a basic layout.
 
-References
-Otto, Mark. Bootstrap: A Framework for the Web. 2011.
-Marcotte, Ethan. Responsive Web Design. 2010.
-Krug, Steve. Don’t Make Me Think. 2000.
-Frost, Brad. Atomic Design. 2016.
-Zeldman, Jeffrey. Designing with Web Standards. 2003.
+### References
+
+- Otto, Mark. Bootstrap: A Framework for the Web. 2011.
+- Marcotte, Ethan. Responsive Web Design. 2010.
+- Krug, Steve. Don’t Make Me Think. 2000.
+- Frost, Brad. Atomic Design. 2016.
+- Zeldman, Jeffrey. Designing with Web Standards. 2003.
