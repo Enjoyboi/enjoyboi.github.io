@@ -1,7 +1,7 @@
 ---
 layout: essay  
 type: essay  
-title: "Tracking Time and Learning From It (Effort Estimation Reflection)"  
+title: "More Effort"  
 date: 2025-05-10  
 published: true  
 labels:  
