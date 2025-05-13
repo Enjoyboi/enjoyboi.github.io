@@ -11,8 +11,7 @@ labels:
   - ICS 314  
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/ICS-314-AI-Journey
-/AI Meme.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/ICS-314-AI-Journey/AI Meme.jpg">
 
 # How AI Helped Me Code (and Learn) in ICS 314
 
