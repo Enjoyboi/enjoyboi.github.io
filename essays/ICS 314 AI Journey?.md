@@ -1,7 +1,7 @@
 ---
 layout: essay  
 type: essay  
-title: "The Future?"  
+title: "ICS 314 AI Journey?"  
 date: 2025-05-12  
 published: true  
 labels:  
