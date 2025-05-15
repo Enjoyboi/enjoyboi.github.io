@@ -12,7 +12,7 @@ labels:
   - ICS 314  
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/software-engineering-reflection.jpg">
+<img width="200px" class="rounded float-start pe-4" src="../img/Web-Dev/Web-Dev.jpg">
 
 # Lessons from ICS 314 That Go Beyond the Browser
 
