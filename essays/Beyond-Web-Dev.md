@@ -60,5 +60,5 @@ I’ll take these lessons with me into future classes, internships, and side pro
 
 ---
 
-**Used AI to help organize and put in correcr format**
+**Used AI to help organize and put in correct format**
 
