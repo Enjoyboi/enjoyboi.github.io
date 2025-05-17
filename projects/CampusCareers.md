@@ -61,7 +61,7 @@ I also learned how to support a development team through clear documentation, vi
 <img class="img-fluid" src="../img/Campus-Careers/CC ContactUs.png" alt="Campus Careers Contact Page">
 
 #### Skill/Location Filter
-<img class="img-fluid" src="../img/Campus-Careers/CC SkillsLocation.png" alt="Campus Careers Skill Location Filter">
+<img class="img-fluid" src="../img/Campus-Careers/CC SkillLocation.png" alt="Campus Careers Skill Location Filter">
 
 ### GitHub & Deployment Links  
 - **GitHub Organization**: [Campus Careers on GitHub](https://github.com/campus-careers)  
