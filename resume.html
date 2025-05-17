@@ -1,245 +1,68 @@
----
-title: Resume
-layout: home
----
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Kristian Soares - Resume</title>
+</head>
+<body>
+  <h1>Kristian Soares</h1>
+  <p>94-449 Mulehu Street<br>Mililani, HI 96789<br>
+  <a href="mailto:soareskris885@gmail.com">soareskris885@gmail.com</a> / (808) 216-7067</p>
 
-<div style="background-color: var(--tf-page-bg-color)" class="bg-gradient py-3">
-  <div class="container">
+  <h2>Objective</h2>
+  <p>To grow into a hands-on technical role that allows me to apply my experience in secure environments while expanding my knowledge in IT support and network infrastructure. I'm looking to take on meaningful work that challenges me and contributes to mission-critical operations.</p>
 
-    <div class="row">
-      <div class="col">
-        <h1 class="display-4 text-center">{{ site.data.bio.basics.name }}</h1>
-      </div>
-    </div>
+  <h2>Security Clearance</h2>
+  <p>TOP SECRET/Sensitive Compartmented Information (TS/SCI) with SBI and polygraph (FSP: Feb 2016, CI: Feb 2016). Status: Active.</p>
 
-    <div class="row">
-      <div class="col">
-        {% capture url %}{{ site.data.bio.basics.website }}{% endcapture %}
-        {% capture label %}{{ site.data.bio.basics.website | remove: "http://" | remove: "https://" }}{% endcapture %}
-        <p class="mb-1">{% include about/social.html url=url name='house' label=label %} </p>
+  <h2>Profile</h2>
+  <p>Access Control Specialist and Computer Engineering student with a strong background in secure environments. Known for reliable execution, attention to detail, and strong communication skills. Familiar with virtual desktop environments, basic networking, and troubleshooting. Currently expanding knowledge in C programming, Python, and ServiceNow. Experience with basic electrical engineering concepts, wiring, soldering, etc.</p>
 
-        {% capture url %}mailto:{{ site.data.bio.basics.email }}{% endcapture %}
-        {% capture label %}{{ site.data.bio.basics.email }}{% endcapture %}
-        <p class="mb-1">{% include about/social.html url=url name='envelope' label=label %}</p>
+  <h2>Skills</h2>
+  <ul>
+    <li>Electrical Engineering: Soldering, wiring, circuit assembly, electronics troubleshooting</li>
+    <li>Computer Hardware: Installation, troubleshooting, and maintenance</li>
+    <li>Networking: Basic infrastructure, deployment, maintenance</li>
+    <li>Security: Working in restricted environments with DoD and military personnel</li>
+    <li>Software: GitHub, VS Code, Linux, ServiceNow</li>
+    <li>Soft Skills: Analytical, teamwork, communication, adaptability, accountability</li>
+  </ul>
 
-        {% for profile in site.data.bio.basics.profiles %}
-          {% capture url %}{{ profile.url }}{% endcapture %}
-          {% capture name %}{{ profile.network | downcase }}{% endcapture %}
-          {% capture label %}{{ profile.username }}{% endcapture %}
-          <p class="mb-1">{% include about/social.html url=url name=name label=label %}</p>
-        {% endfor %}
-      </div>
-      <div class="col">
-        <p class="mb-1 text-end">{{ site.data.bio.basics.location.address }}</p>
-        <p class="mb-1 text-end">{{ site.data.bio.basics.location.city }}, {{ site.data.bio.basics.location.region }} {{ site.data.bio.basics.location.postalCode }} {{ site.data.bio.basics.location.countryCode }}</p>
-        <p class="mb-1 text-end">{{ site.data.bio.basics.phone }}</p>
-      </div>
-    </div>
+  <h2>Education</h2>
+  <ul>
+    <li><strong>University of Hawaii at Manoa</strong>, B.S. in Computer Engineering, Expected Fall 2025</li>
+    <li><strong>Leeward Community College</strong>, A.S. in Natural Science (Pre-Engineering), Fall 2020, GPA: 3.5</li>
+    <li><strong>Pearl City High School</strong>, 2015</li>
+  </ul>
 
-    <div class="row pt-4 align-items-center">
-      <div class="col-lg-3">
-        <h1 class="display-6 text-start m-0">Interests</h1>
-      </div>
-      <div class="col-lg-9">
-        <p class="m-0">
-          {% for entry in site.data.bio.interests %}
-          {{ entry.name }}
-          <!-- Unfortunately the following must all be on a single line so that there are no spaces before the commas. -->
-          {% if entry.keywords and entry.keywords.size > 0 %}({% for keyword in entry.keywords %}{{ keyword }}{% if forloop.last != true %},{% endif %}{% endfor %}){% endif %}{% if forloop.last != true %}, {% endif %}
-          {% endfor %}
-        </p>
-      </div>
-    </div>
+  <h2>Relevant Coursework</h2>
+  <p>Physics, Chemistry, Calculus I-IV, Digital Design, Circuit Analysis, Signal Processing, Microelectronics, Digital Systems, Electromagnetics, Power Systems, Renewable Energy, Data Structures, and Object-Oriented Software Engineering.</p>
 
-    {% if site.data.bio.skills %}
-    <div class="row pt-4 align-items-center">
-      <div class="col-lg-3">
-        <h1 class="display-6 text-start m-0">Skills</h1>
-      </div>
-      <div class="col-lg-9">
-        {% for entry in site.data.bio.skills %}
-          <p class="m-0">
-            <b>{{ entry.name }}:</b>
-              {% for keyword in entry.keywords %}
-                {{ keyword }}{% if forloop.last != true %}, {% endif %}
-              {% endfor %}
-          </p>
-        {% endfor %}
-      </div>
-    </div>
-    {% endif %}
+  <h2>Work Experience</h2>
+  <h3>AECOM / Amentum – NSA/CSS Hawaii (NSAH)</h3>
+  <p><em>Access Control Specialist | May 2019 – Present</em></p>
+  <ul>
+    <li>Operate in a 24/7 high-security environment, monitoring intrusion systems and coordinating responses</li>
+    <li>Work with proprietary software, badge systems, and DoD security protocols</li>
+    <li>Provide basic computer troubleshooting for standalone systems</li>
+    <li>Trained new personnel and supported facility upgrades</li>
+  </ul>
 
-    {% if site.data.bio.education %}
-    <div class="row pt-4 align-items-start">
-      <div class="col-lg-3">
-        <h1 class="display-6 text-start m-0">Education</h1>
-      </div>
-      <div class="col-lg-9">
-        {% for entry in site.data.bio.education %}
-          <div class="row mb-3">
-            <div class="col-9">
-              <p class="m-0"><b>{{ entry.institution }}</b></p>
-              <p class="m-0">{{ entry.studyType }}, {{ entry.area }}</p>
-              {% if entry.courses %}
-                <ul>
-                  {% for course in entry.courses %}
-                    <li>{{ course }}</li>
-                  {% endfor %}
-                </ul>
-              {% endif %}
-            </div>
-          <div class="col-3">
-            <p class="m-0 text-end">
-              {% if entry.startDate %}
-                {{ entry.startDate | slice: 0,4 }}
-              {% endif %}
-              {% if entry.startDate and entry.startDate != '' and entry.endDate and entry.endDate != '' %}
-              -
-              {% endif %}
-              {% if entry.endDate %}
-                {% if entry.endDate != "Present" %}
-                  {{ entry.endDate | slice: 0,4 }}
-                {% else %}
-                  {{ entry.endDate }}
-                {% endif %}
-              {% endif %}
-            </p>
-          </div>
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-    {% endif %}
+  <h3>OMNIPLEX – NSA/CSS Hawaii (NSAH)</h3>
+  <p><em>Access Control Specialist | Dec 2015 – May 2019</em></p>
+  <ul>
+    <li>Supported secure facility access control, monitored alarms, and dispatched response teams</li>
+    <li>Worked with military and federal agencies to manage visitor access and emergency protocols</li>
+  </ul>
 
-    {% if site.data.bio.work %}
-    <div class="row pt-4 align-items-start">
-      <div class="col-lg-3">
-        <h1 class="display-6 text-start m-0">Work</h1>
-      </div>
-      <div class="col-lg-9">
-        {% for entry in site.data.bio.work %}
-          <div class="row mb-3">
-            <div class="col-9">
-              <p class="mb-0"><b>{{ entry.position }}, {{ entry.company }}</b></p>
-              <p class="mb-0"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
-              <p class="mb-0">{{ entry.summary }}</p>
-              {% if entry.highlights %}
-                <ul>
-                  {% for highlight in entry.highlights %}
-                    <li>{{ highlight }}</li>
-                  {% endfor %}
-                </ul>
-              {% endif %}
-            </div>
-            <div class="col-3">
-              <p class="m-0 text-end">
-                {% if entry.startDate %}
-                  {{ entry.startDate | slice: 0,4 }}
-                {% endif %}
-                {% if entry.startDate and entry.startDate != '' and entry.endDate and entry.endDate != '' %}
-                -
-                {% endif %}
-                {% if entry.endDate %}
-                {% if entry.endDate != "Present" %}
-                  {{ entry.endDate | slice: 0,4 }}
-                {% else %}
-                  {{ entry.endDate }}
-                {% endif %}
-              {% endif %}
-              </p>
-            </div>
-          </div>
-        {% endfor %}
-      </div>
-    </div>
-    {% endif %}
+  <h2>ICS 314: What I Learned</h2>
+  <p>Through the Object-Oriented Software Engineering course, I learned how to design, develop, and deploy full-stack web applications using Next.js, TypeScript, Prisma, PostgreSQL, and Supabase. I implemented GitHub Project boards for issue-driven development, integrated authentication with NextAuth.js, deployed using Vercel, and wrote Playwright tests for automated CI/CD. I also developed admin dashboards, persistent contact form submissions, and real-world feature sets for users, gaining experience in agile development and collaborative teamwork.</p>
 
-    {% if site.data.bio.volunteer %}
-      <div class="row pt-4 align-items-start">
-        <div class="col-lg-3">
-          <h1 class="display-6 text-start m-0">Activities</h1>
-        </div>
-        <div class="col-lg-9">
-          {% for entry in site.data.bio.volunteer %}
-          <div class="row mb-3">
-            <div class="col-9">
-              <p class="mb-0"><b>{{ entry.position }}{% if entry.organization %}, {{ entry.organization }}{% endif %}</b></p>
-              <p class="mb-0"><a href="{{ entry.website }}">{{ entry.website | remove: "http://" | remove: "https://" }}</a></p>
-              <p class="mb-0">{{ entry.summary }}</p>
-              {% if entry.highlights %}
-                <ul>
-                {% for highlight in entry.highlights %}
-                  <li>{{ highlight }}</li>
-                {% endfor %}
-              </ul>
-              {% endif %}
-            </div>
-            <div class="col-3">
-              <p class="m-0 text-end">
-                {% if entry.startDate %}
-                  {{ entry.startDate | slice: 0,4 }}
-                {% endif %}
-                {% if entry.startDate and entry.startDate != '' and entry.endDate and entry.endDate != '' %}
-                -
-                {% endif %}
-                {% if entry.endDate %}
-                  {% if entry.endDate != "Present" %}
-                    {{ entry.endDate | slice: 0,4 }}
-                  {% else %}
-                    {{ entry.endDate }}
-                  {% endif %}
-                {% endif %}
-              </p>
-            </div>
-          </div>
-          {% endfor %}
-        </div>
-      </div>
-    {% endif %}
-
-    {% if site.data.bio.awards %}
-    <div class="row pt-4 align-items-start">
-      <div class="col-lg-3">
-        <h1 class="display-6 text-start m-0">Awards</h1>
-      </div>
-
-      <div class="col-lg-9">
-      {% for entry in site.data.bio.awards %}
-        <div class="row mb-3">
-          <div class="col-9">
-            <p class="mb-0">
-              <b>{{ entry.title }}</b>, {{ entry.awarder }}
-            </p>
-            <p class="mb-0">{{ entry.summary }}</p>
-          </div>
-          <div class="col-3">
-            <p class="m-0 text-end">
-              {{ entry.date}}
-            </p>
-          </div>
-        </div>
-        {% endfor %}
-      </div>
-    </div>
-    {% endif %}
-
-    {% if site.data.bio.references %}
-    <div class="row pt-4 align-items-center">
-      <div class="col-lg-3">
-        <h1 class="display-6 text-start m-0">References</h1>
-      </div>
-
-      <div class="col-lg-9">
-        <p class="m-0">
-          {% for entry in site.data.bio.references %}
-            {{ entry.name }}
-            {% if entry.reference and entry.reference.size > 0 %}
-              <em>{{ entry.reference }}</em>
-            {% endif %}
-          {% endfor %}
-        </p>
-      </div>
-    </div>
-    {% endif %}
-  </div>
-</div>
+  <h2>Projects</h2>
+  <ul>
+    <li><strong>Campus Careers (ICS 314)</strong>: Web app to connect students to jobs and mentors using Next.js + Supabase</li>
+    <li><strong>Ke Ao CubeSat</strong>: Embedded software and radio communication for student-led satellite mission</li>
+    <li><strong>WeatherBox VIP Project</strong>: Sensor integration and firmware development for weather monitoring</li>
+  </ul>
+</body>
+</html>
