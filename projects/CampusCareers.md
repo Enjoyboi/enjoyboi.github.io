@@ -52,6 +52,17 @@ Through this project, I strengthened my skills in:
 
 I also learned how to support a development team through clear documentation, visual design contributions, and structured project management.
 
+### Visual Highlights
+
+#### Homepage
+<img class="img-fluid" src="../img/CampusCareers/homepage.png" alt="Campus Careers Homepage">
+
+#### Contact Us Form
+<img class="img-fluid" src="../img/CampusCareers/contact_us.png" alt="Campus Careers Contact Page">
+
+#### Skill/Location Filter
+<img class="img-fluid" src="../img/CampusCareers/skill_filter.png" alt="Campus Careers Skill Location Filter">
+
 ### GitHub & Deployment Links  
 - **GitHub Organization**: [Campus Careers on GitHub](https://github.com/campus-careers)  
 - **Live Site**: [Campus Careers App (Vercel)](https://campus-careers-app.vercel.app/)  
