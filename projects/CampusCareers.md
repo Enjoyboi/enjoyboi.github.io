@@ -54,5 +54,5 @@ I also learned how to support a development team through clear documentation, vi
 
 ### GitHub & Deployment Links  
 - **GitHub Organization**: [Campus Careers on GitHub](https://github.com/campus-careers)  
-- **Live Site**: [Campus Careers App (Vercel)](https://campus-careers.vercel.app)  
+- **Live Site**: [Campus Careers App (Vercel)](https://campus-careers-app.vercel.app/)  
 - **Docs**: [GitHub Pages Project Site](https://campus-careers.github.io)
