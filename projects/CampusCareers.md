@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/CampusCareers/landing.png
+image: img/Campus-Careers/CampusCareersLogo.png
 title: "Campus Careers: A Student Job and Networking Platform"
 date: 2025
 published: true
