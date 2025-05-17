@@ -25,7 +25,7 @@ When I first heard that we had to track our work and write essays in ICS 314, I 
 
 For Experience WODs, I often ran into problems setting up tools or understanding what I was supposed to do. Instead of spending an hour digging through documentation, I asked ChatGPT questions like “How do I install Prisma for a Next.js project?” and got clean, step-by-step help. It saved me a lot of time and confusion.
 
-In practice WODs, I used AI sometimes when I got stuck. FI used ChatGPT when I got stuck during a project setup—especially for configuring environment variables or fixing weird ESLint errors
+In practice WODs, I used AI sometimes when I got stuck. I used ChatGPT when I got stuck during a project setup—especially for configuring environment variables or fixing weird ESLint errors
 
 ### In-Class WODs
 
