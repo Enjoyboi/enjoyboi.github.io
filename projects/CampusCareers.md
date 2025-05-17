@@ -13,7 +13,7 @@ labels:
 summary: "Campus Careers is a full-stack web application that connects students with career opportunities, mentors, and resources across the UH system. Built as the final project for ICS 314, it showcases collaborative agile development, database integration, and modern UI design."
 ---
 
-<img class="img-full" src="../img/CampusCareers/landing.png">
+<img class="img-full" src="../img/Campus-Careers/CampusCareersLogo.png">
 
 ### Overview  
 **Campus Careers** is a career development platform created during **ICS 314 Spring 2025**. Designed to help students explore job listings, connect with mentors, and manage their professional presence, this app was built using **Next.js, TypeScript, Tailwind CSS, Prisma, and PostgreSQL**.
